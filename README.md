@@ -58,4 +58,3 @@ Manages the interaction between persons, vehicles, and the tax system. Key metho
 3. Compile and run the `Main.java` file to interact with the system.
 4. Add persons and vehicles, transfer ownership, and generate tax reports.
 
-## File Structure
